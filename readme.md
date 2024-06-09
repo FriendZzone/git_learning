@@ -3,3 +3,4 @@
 ### conflict test
 
 ### this is the third commit
+git lens
