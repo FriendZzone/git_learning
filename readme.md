@@ -6,3 +6,6 @@
 git lens
 handleA edit this line
 HandleB edit this line
+1
+2
+3
