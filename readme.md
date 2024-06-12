@@ -10,3 +10,5 @@ HandleB edit this line
 2
 3
 4
+5
+commit --amend2
